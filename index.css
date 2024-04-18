@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 canvas {
   background: #232323;
   z-index: 0;
